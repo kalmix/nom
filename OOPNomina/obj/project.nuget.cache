@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxWRK8YCuFs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jasie\\Programming\\OOPNomina\\OOPNomina\\OOPNomina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jasie\\.nuget\\packages\\sixlabors.imagesharp\\3.1.11\\sixlabors.imagesharp.3.1.11.nupkg.sha512",
+    "C:\\Users\\jasie\\.nuget\\packages\\spectre.console\\0.51.1\\spectre.console.0.51.1.nupkg.sha512",
+    "C:\\Users\\jasie\\.nuget\\packages\\spectre.console.cli\\0.51.1\\spectre.console.cli.0.51.1.nupkg.sha512",
+    "C:\\Users\\jasie\\.nuget\\packages\\spectre.console.imagesharp\\0.51.1\\spectre.console.imagesharp.0.51.1.nupkg.sha512"
+  ],
+  "logs": []
+}

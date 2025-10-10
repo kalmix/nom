@@ -1,0 +1,127 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOPNomina/1.0.0": {
+        "dependencies": {
+          "Spectre.Console": "0.51.1",
+          "Spectre.Console.Cli": "0.51.1",
+          "Spectre.Console.ImageSharp": "0.51.1"
+        },
+        "runtime": {
+          "OOPNomina.dll": {}
+        }
+      },
+      "SixLabors.ImageSharp/3.1.11": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.11.0"
+          }
+        }
+      },
+      "Spectre.Console/0.51.1": {
+        "runtime": {
+          "lib/net8.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.51.1.0"
+          }
+        }
+      },
+      "Spectre.Console.Cli/0.51.1": {
+        "dependencies": {
+          "Spectre.Console": "0.51.1"
+        },
+        "runtime": {
+          "lib/net8.0/Spectre.Console.Cli.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.51.1.0"
+          }
+        },
+        "resources": {
+          "lib/net8.0/de/Spectre.Console.Cli.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/Spectre.Console.Cli.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/Spectre.Console.Cli.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/it/Spectre.Console.Cli.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/Spectre.Console.Cli.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/ko/Spectre.Console.Cli.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net8.0/pt/Spectre.Console.Cli.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net8.0/ru/Spectre.Console.Cli.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/sv/Spectre.Console.Cli.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net8.0/zh-Hans/Spectre.Console.Cli.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      },
+      "Spectre.Console.ImageSharp/0.51.1": {
+        "dependencies": {
+          "SixLabors.ImageSharp": "3.1.11",
+          "Spectre.Console": "0.51.1"
+        },
+        "runtime": {
+          "lib/net8.0/Spectre.Console.ImageSharp.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.51.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPNomina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp/3.1.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JfPLyigLthuE50yi6tMt7Amrenr/fA31t2CvJyhy/kQmfulIBAqo5T/YFUSRHtuYPXRSaUHygFeh6Qd933EoSw==",
+      "path": "sixlabors.imagesharp/3.1.11",
+      "hashPath": "sixlabors.imagesharp.3.1.11.nupkg.sha512"
+    },
+    "Spectre.Console/0.51.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-84xNywgnaG8XgOypnZAL+EZUbhCGE0umj7fuMrSI6esdE74HYHRoeBioeMUJXPiCt7iBDKHLwiBcg0IliYIIxA==",
+      "path": "spectre.console/0.51.1",
+      "hashPath": "spectre.console.0.51.1.nupkg.sha512"
+    },
+    "Spectre.Console.Cli/0.51.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LqJjjug5f8ipFFzhwBaQHMXt8+uuJAxu3dsyAxF+Jyva9yHW0P3iP6s1NpwVqt0Yk11n6/f9qipyiEn0zBKBiQ==",
+      "path": "spectre.console.cli/0.51.1",
+      "hashPath": "spectre.console.cli.0.51.1.nupkg.sha512"
+    },
+    "Spectre.Console.ImageSharp/0.51.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G6v3T28Yfr9UiaWa/yNNvWbk6ZKfcZRR8xySyw8i9mN3jw5JbCjryrilfrcBeJjZR36x4zFAVObFTZaiJ9su1w==",
+      "path": "spectre.console.imagesharp/0.51.1",
+      "hashPath": "spectre.console.imagesharp.0.51.1.nupkg.sha512"
+    }
+  }
+}
